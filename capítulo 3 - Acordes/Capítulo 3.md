@@ -39,3 +39,6 @@ Aqui temos alguns exemplos de cifragem com variações nos intervalos do acorde 
 Existem inconsistências na linguagem da cifra. Por exemplo, o "maj7" é entendido como "major 7" que se refere a sétima maior. Porém ao ver "min7" é necessário entender que o "min" (minor) se refere a terça menor e não a sétima, apesar de que nesse caso a sétima também é uma sétima menor. Existe o acorde que possui terça menor e sétima maior e ele possui a seguinte cifra: Cminmaj7.
 
 Por isso que existem algumas variações na forma de cifrar os acordes. Por exemplo, o Cmaj7 pode ser cifrado como C7M, onde o "7M" significa sétima maior. O Cmin7 pode ser cifrado simplesmente com um Cm7. Nem sempre vai ser simples de entender o que uma cifra realmente significa, porém a maior parte das confusões podem ser resolvidas com o contexto harmônico que será o tema do próximo capítulo.
+
+### Extensões em Acordes Ternários
+
