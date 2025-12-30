@@ -107,6 +107,26 @@ Exemplos:
 
 Respectivamente as escalas pentatônicas de C maior, B♭ maior, A♭ maior e D maior.
 
+As notas com acidente (bemol ou sustenido) também formam uma escala pentatônica, é possível ver com clareza o porquê ao olhar para o círculo de quintas. Chopin inclusive escreveu seu [Etude Op.10 no.5](https://www.youtube.com/watch?v=G10qXpF3cqI) chamado de Black Keys que faz uso dessa facilidade de se usar as teclas pretas com tanta flexibilidade pois elas formam uma escala pentatônica.
+
 Escalas pentatônicas são as mais fáceis de se usar. Exatamente por não contar as extremidades tonais, elas se encaixam em diversos contextos harmônicos de forma livre. Você pode improvisar sem pensar muito em que notas e em que ordem irá tocar, contanto que elas estejam dentro da pentatônica escolhida. Além disso é possível ter certa flexibilidade com a escolha da escala pentatônica, já que elas excluem as extremidades, elas podem ser usadas em ambas as escalas de primeiro grau de vizinhança acima ou abaixo. Por exemplo, a pentatônica de C maior (a que está em verde na imagem acima) pode ser usada não apenas dentro de um contexto de C maior, mas também nas escalas de F maior e G maior, já que todas as suas notas estão contidas em ambas essas escalas.
 
-As notas com acidente (bemol ou sustenido) também formam uma escala pentatônica, é possível ver com clareza o porquê ao olhar para o círculo de quintas. Chopin inclusive escreveu seu [Etude Op.10 no.5](https://www.youtube.com/watch?v=G10qXpF3cqI) chamado de Black Keys que faz uso dessa facilidade de se usar as teclas pretas com tanta flexibilidade pois elas formam uma escala pentatônica.
+Isso também significa que em uma única tonalidade você pode usar 3 pentatônicas diferentes. Por exemplo, as pentatônicas de G maior, D maior e A maior, podem ser usadas na escala de D maior, pois as notas contidas em cada uma delas estão todas também contidas dentro da escala de D maior.
+
+Ao omitir duas notas da escala, você cria uma espécie de ambiguidade, pois uma escala pentatônica não define com exatidão a qual tonalidade ela pertence. Ao usar as notas da escala pentatônica de C maior, as notas das extremidades não estão definidas e podem tanto definir a tonalidade de C maior, como também a de G maior ou a de F maior. Portanto a ambiguidade gera uma vantagem em termos de liberdade harmônica. A ambiguidade é uma arma muito poderosa na música e iremos aprofundar bastante em diversas formas de se usar ambiguidade para facilitar movimentações e transformações harmônicas de vários tipos.
+
+### Escalas Não-Diatônicas
+
+Estas são algumas escalas que fogem dos parâmetros de uma escala diatônica. São escalas que podem possuir mais ou menos do que 7 notas e não formam uma vizinhança no círculo de quitnas. Experimente elas no seu instrumento e utilize-as para praticar sua sensibilidade musical. Tente interpretar os sentimentos e sensações que elas te causam, assim como fizemos no capítulo anterior. Além disso você pode tentar sentir as relações internas entre as notas e sentir os momentos de tensão e relaxamente, de estranheza e familiaridade, de amargura e doçura.
+<div>
+<img src="Charmonic_00001.png" width="200">
+<img src="c-minor-maj7-sharp11_00001.png" width="200">
+</div>
+<div>
+<img src="diminuta_00001.png" width="200">
+<img src="whole-tones_00001.png" width="200">
+</div>
+<div>
+<img src="petrushka_00001.png" width="200">
+<img src="maj-aug-super-imposed_00001.png" width="200">
+</div>
