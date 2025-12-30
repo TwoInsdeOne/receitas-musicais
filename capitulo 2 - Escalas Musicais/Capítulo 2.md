@@ -64,13 +64,17 @@ Portanto G maior é uma escala vizinha a C maior. Arnold Schoenberg (compositor 
 
 A seguir alguns exemplos de escalas vizinhas acima de C maior:
 
+<div>
 <img src="circuloD_00001.png" width="200">
 <img src="circuloA_00001.png" width="200">
+</div>
 
 E também alguns exemplos de escalas vizinhas abaixo de C maior:
 
+<div>
 <img src="circuloF_00001.png" width="200">
 <img src="circuloBb_00001.png" width="200">
+</div>
 
 Repare que no caso das escalas vizinhas abaixo do C maior nós usamos o círculo de quintas contendo as notas com acidentes bemois ao invés das sustenidas. O principal motivo é para evitar repetição no nome das notas. Por exemplo na escala de F maior, se usássemos o círculo com acidentes sustenidos, teríamos ambos o A e o A#, mas como o B♭ representa a mesma nota que o A#, podemos fazer essa troca. Este conceito normalmente é confuso para a maioria dos alunos, mas acredito que o círculo de quintas ajuda a visualizar melhor a forma correta de escolher entre bemois e sustenidos.
 
@@ -92,10 +96,14 @@ Escalas pentatônicas são subconjuntos de escalas diatônicas porém contendo a
 
 Exemplos:
 
+<div>
 <img src="pentatonica1_00001.png" width="200">
 <img src="pentatonica2_00001.png" width="200">
+</div>
+<div>
 <img src="pentatonica3_00001.png" width="200">
 <img src="pentatonica4_00001.png" width="200">
+</div>
 
 Respectivamente as escalas pentatônicas de C maior, B♭ maior, A♭ maior e D maior.
 
