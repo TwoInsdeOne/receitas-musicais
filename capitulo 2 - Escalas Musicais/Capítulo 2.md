@@ -107,3 +107,6 @@ Exemplos:
 
 Respectivamente as escalas pentatônicas de C maior, B♭ maior, A♭ maior e D maior.
 
+Escalas pentatônicas são as mais fáceis de se usar. Exatamente por não contar as extremidades tonais, elas se encaixam em diversos contextos harmônicos de forma livre. Você pode improvisar sem pensar muito em que notas e em que ordem irá tocar, contanto que elas estejam dentro da pentatônica escolhida. Além disso é possível ter certa flexibilidade com a escolha da escala pentatônica, já que elas excluem as extremidades, elas podem ser usadas em ambas as escalas de primeiro grau de vizinhança acima ou abaixo. Por exemplo, a pentatônica de C maior (a que está em verde na imagem acima) pode ser usada não apenas dentro de um contexto de C maior, mas também nas escalas de F maior e G maior, já que todas as suas notas estão contidas em ambas essas escalas.
+
+As notas com acidente (bemol ou sustenido) também formam uma escala pentatônica, é possível ver com clareza o porquê ao olhar para o círculo de quintas. Chopin inclusive escreveu seu [Etude Op.10 no.5](https://www.youtube.com/watch?v=G10qXpF3cqI) chamado de Black Keys que faz uso dessa facilidade de se usar as teclas pretas com tanta flexibilidade pois elas formam uma escala pentatônica.
