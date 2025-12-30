@@ -54,6 +54,48 @@ A resposta é simples. Toda escala diatônica possui apenas 7 notas e elas forma
 <img src="scale3.png" width="200" height="200">
 </div>
 
+### Escalas diatônicas vizinhas
 
+O círculo de quintas é a melhor ferramenta para se visualizar e obter escalas diatônicas e também escalas derivadas de escalas diatônicas. Assim como existe vizinhança entre as notas no círculo de quintas, também existe vizinhança entre as escalas que é ainda mais forte, poís elas compartilham muitas notas em comum. A seguinte escala é a de G maior e ela compartilha 6 notas em comum com o a escala de C maior apresentada no começo do capítulo:
 
+<img src="circuloG_00001.png" width="300">
+
+Portanto G maior é uma escala vizinha a C maior. Arnold Schoenberg (compositor muito importante do século XX) chama essas vizinhaças de ordinais de círculo de quinta ascendente/descendente. Por exemplo, o G maior é o *primeiro círculo de quinta ascendente* de C maior. D maior é o *segundo círculo de quinta ascendente* de C maior e assim por diante. Entretando, essa nomeclatura pode se tornar confusa. Chamarei de grau de vizinhança a distância entre duas escalas medida em passos sucessivos no círculo de quintas. Nesse caso, o G maior está no primeiro grau de vizinhança acima de C maior e o F maior está no primeiro grau de vizinhança abaixo de C maior.
+
+A seguir alguns exemplos de escalas vizinhas acima de C maior:
+
+<img src="circuloD_00001.png" width="200">
+<img src="circuloA_00001.png" width="200">
+
+E também alguns exemplos de escalas vizinhas abaixo de C maior:
+
+<img src="circuloF_00001.png" width="200">
+<img src="circuloBb_00001.png" width="200">
+
+Repare que no caso das escalas vizinhas abaixo do C maior nós usamos o círculo de quintas contendo as notas com acidentes bemois ao invés das sustenidas. O principal motivo é para evitar repetição no nome das notas. Por exemplo na escala de F maior, se usássemos o círculo com acidentes sustenidos, teríamos ambos o A e o A#, mas como o B♭ representa a mesma nota que o A#, podemos fazer essa troca. Este conceito normalmente é confuso para a maioria dos alunos, mas acredito que o círculo de quintas ajuda a visualizar melhor a forma correta de escolher entre bemois e sustenidos.
+
+Sugiro que pratique por conta própria a construção de escalas diatônicas. Fica como exercício a construção das seguintes escalas:
+
+- A maior
+- E maior
+- B maior
+- F# maior
+- E♭ maior
+- A♭ maior
+- D♭ maior
+
+Identifique também qual é o grau de vizinhança (e direção) de cada um deles em relação ao C maior.
+
+### Escala Pentatônica
+
+Escalas pentatônicas são subconjuntos de escalas diatônicas porém contendo apenas 5 notas. Essas 5 notas são vizinhas no círculo de quintas. Para obter uma escala pentatônica, basta remover as duas extremidades da escala diatônica (da forma que aparecem no círculo de quintas).
+
+Exemplos:
+
+<img src="pentatonica1_00001.png" width="200">
+<img src="pentatonica2_00001.png" width="200">
+<img src="pentatonica3_00001.png" width="200">
+<img src="pentatonica4_00001.png" width="200">
+
+Respectivamente as escalas pentatônicas de C maior, B♭ maior, A♭ maior e D maior.
 

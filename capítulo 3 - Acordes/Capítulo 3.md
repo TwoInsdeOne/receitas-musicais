@@ -42,3 +42,48 @@ Por isso que existem algumas variações na forma de cifrar os acordes. Por exem
 
 ### Extensões em Acordes Ternários
 
+Como dito anteriormente os acordes ternários são formados pelos intervalos de números ímpares. O intervalo de oitava é uma repetição da nota raiz que é indicada pelo número 1 (muitas vezes chamado de unissóno). Portanto quando temos um acorde ternário com 5 notas, os intervalos seguem os números ímpares e após a oitava, os intervalos ímpares são repetições dos intervalos pares, o que significa que:
+
+- A **Nona** é uma repetição da **Segunda**
+- A **Décima Primeira** é uma repetição da **Quarda**
+- A **Décima Terceira** é uma repetição da **Sexta**
+
+Assim, os intervalos que pulamos ao criar acordes ternários irão aparecer após a oitava e eles são chamados de extensões.
+
+Vejamos o exemplo do acorde ternário sob o D como raiz contendo todas as extensões possíveis dentro da escala do C maior:
+
+<img src="pianoroll5.png" width="400">
+
+A cifra desse acorde, como já vimos, omite a quinta e apresenta as extensões, porém é uma prática omitir também as extensões internas (e a sétima) e apresentar somente a última extensão presente: **Dmin13**. Como pode ver, omitimos também a qualidade de "maior" da décima terceira. Também omitiriamos a qualidade de "maior" da nona caso ela aparecesse na cifra. Para cada intervalo existe um padrão que é omitido na cifra e apenas a alteração é apresentada.
+
+Agora é uma boa hora de rever todos os intervalos considerando quais são considerados padrões na cifra e que são geralmente omitidos. Na seguinte lista, os intervalos cujo os números aparecem na cifra terão um **@** à frente e os intervalos cuja qualidade *não* são omitidas na cifra terão um **$** à frente:
+
+- Unissóno
+- Segunda menor @$
+- Segunda maior @
+- Terça menor $
+- Terça maior
+- Quarta justa @
+- Quarta aumentada @$
+- Quinta diminuta $
+- Quinta perfeita
+- Sexta menor @$
+- Sexta maior @
+- Sétima menor @
+- Sétima maior @$
+- Oitava
+- Nona menor @$
+- Nona maior @
+- Décima primeira justa @
+- Décima primeira aumentada @$
+- Décima terceira menor @$
+- Décima terceira maior @
+
+Essa regra não é universal. Existem exceções e práticas diferentes. Cifras de Jazz feitas nos Estados Unidades são diferentes das Cifras de MPB e Bossa Nova feitas no Brasil. Portanto, como já dito anteriormente, a melhor forma de ter certeza do significado de uma cifra é através do contexto harmônico e também do conhecimento da música que está sendo cifrada. 
+
+Na cifra de Ana Luiza, música de Tom Jobim, cifrada por Almir Chediak, temos alguns acordes usando o símbolo **♭** (bemol) que representa a nota raiz, porém os intervalos de Nona menor e Décima primeira menor são representados com um ♭ prefixando o número do intervalo. Para evitar confusão, Almir Chediak usa o parêntese para separar os intervalos. Outra diferença em relação ao que apresentei nesse capítulo é que ele não omite as extensões internas.
+
+<img src="cifra.png">
+
+
+
