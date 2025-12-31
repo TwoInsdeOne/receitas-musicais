@@ -117,7 +117,8 @@ Ao omitir duas notas da escala, você cria uma espécie de ambiguidade, pois uma
 
 ### Escalas Não-Diatônicas
 
-Estas são algumas escalas que fogem dos parâmetros de uma escala diatônica. São escalas que podem possuir mais ou menos do que 7 notas e não formam uma vizinhança no círculo de quitnas. Experimente elas no seu instrumento e utilize-as para praticar sua sensibilidade musical. Tente interpretar os sentimentos e sensações que elas te causam, assim como fizemos no capítulo anterior. Além disso você pode tentar sentir as relações internas entre as notas e sentir os momentos de tensão e relaxamente, de estranheza e familiaridade, de amargura e doçura.
+Estas são algumas escalas que fogem dos parâmetros de uma escala diatônica. São escalas que podem possuir mais ou menos do que 7 notas e não formam uma vizinhança no círculo de quitnas. Experimente elas no seu instrumento e utilize-as para praticar sua sensibilidade musical. Tente interpretar os sentimentos e sensações que elas te causam, assim como fizemos no capítulo anterior. Além disso você pode tentar sentir as relações internas entre as notas e sentir os momentos de tensão e relaxamento, de estranheza e familiaridade, de amargura e doçura.
+
 <div>
 <img src="Charmonic_00001.png" width="200">
 <img src="c-minor-maj7-sharp11_00001.png" width="200">
@@ -130,3 +131,16 @@ Estas são algumas escalas que fogem dos parâmetros de uma escala diatônica. S
 <img src="petrushka_00001.png" width="200">
 <img src="maj-aug-super-imposed_00001.png" width="200">
 </div>
+
+A primeira dessas escalas podemos chamar de Mixolídio com Sexta menor, não se preocupe case esse termo seja novo para você. Mixolídio é um dos modos gregos e iremos estudar todos eles no capítulo 7. O que há de interessante nessa escala é que ela possui dois pares diferentes de Trítono entre as notas D, E, B♭ e A♭. O resultado é uma sonoridade mais "mística" do que o da escala diatônica. O intervalo de trítono é uma forte dissonância que normalmente pede resolução. Porém, ao utilizar a escala de forma suspensa, sem criar acordes específicos e sem criar movimentos, a necessidade de resolução se suspende e as sensações de dissonância se misturam com os outros intervalos formando uma espécie de *pintura sonora* que não precisa ir a nenhum lugar.
+
+A segunda escala também é uma derivação de um modo grago, no caso é o modo Lídio com Terça menor. Repare que o E♭ está presente enquanto o E não está. Se substituir o E♭ pelo E, recuperamos uma escala diatônica comum, no caso a de G maior, porém a considerar o C como tônica ao invés do C, essa escala se torna o que chamamos de modo lídio. Isso é uma simplificação, mas é uma forma de pensar. Nós falaremos muito sobre o modo lídio do capítulo 7 em diante, mas por enquanto você pode apreciar a beleza exótica dessa escala alterada. Quase com um sabor Àrabe, principalmente ao subir até o G e voltar passando pelo salto de terça menor entre o E♭ e o G♭. Essa escala possui um acorde que pode tanto ser menor como maior, pois o B possui uma "Quarta diminuta", um intervalo alterado que não falamos no capítulo anterior pois é muito raro e é enarmônico com a Terça Maior.
+
+A terceira é a escala Diminuta. Ela será muito importante em capítulos posteriores, portanto não aprofundaremos agora, mas é uma boa ideia começar a se familiarizar com sua sonoridade. Perceba que ela é uma escala dissonante, porém, diferente das outras, ela possui uma certa gravitação, uma necessidade de resolução específica. Um dos motivos é por causa que essas dissonância são formadas apenas por trítonos e também pelo fato de que essa escala é usada com muita frequência a séculos, ela faz parte da teoria da harmonia funcional (capítulo 6) e existem formas especificas de se resolver ela com exemplos em músicas historicamente famosas.
+
+A quarta é a escala de tons inteiros, também bastante famosa, mas começou a ser mais usada no final do século XIX nas obras de Debussy e outros compositores que deram início aos movimentos modernistas na música. Assim como a escala diminuta, a escala de tons inteiros é simétrica e possui bastante dissonância por possuir 3 pares diferentes de trítonos. Ela possui um som mágico, enquanto a escala diatônica e outras escalas não simétricas possuem uma variação gravitacional com diferentes intervalos, a escala de tons inteiros não possui nenhuma variação, ela é como uma escadaria infinita e cíclica, sem começo e sem fim.
+
+A quinta pode ser usada como uma escala, porém é mais famosa como um acorde. É o chamado acorde de [Petrushka](https://www.youtube.com/watch?v=esD90diWZds), que se trata de um balé escrito em 1911 por Igor Stravinsky. O acorde de Petrushka é um inédito exemplo de bitonalidade, pois possui um acorde de C maior e um acorde de F# maior. Os dois acordes não são tocados separadamente, eles são sobrepostos e essa prática simples, porém altamente eficaz para se criar novos complexos harmônicos, será um dos temas principais do capítulo 12. 
+
+Por fim, temos outro exemplo de sobreposição de acordes, nesse caso são dois acordes aumetados sobrepostos, um C maior com quinta aumentada e um C# maior com quinta aumentada, juntas elas formam uma escala de transposição limitada, um assunto raro de se ver em livros de teoria musical, mas intensamente interessante. Iremos aprofundar no capítulo 13.
+
