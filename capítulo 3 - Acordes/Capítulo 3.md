@@ -169,5 +169,6 @@ Vejamos alguns exemplos:
 
 <img src="sobreposto1.png">
 
-Aqui temos uma versão alterada do acorde de Petrushka. Se trata de um F# aumentado sobreposto a um C maior. As notas do acorde F# aumentado definem sobre o acorde de C os intervalos de Quarta aumentada, Sétima menor e Nona maior. Se elevarmos o F# uma oitava acima, obteremos uma estrutura de acorde mais brilhante, mas ainda com a mesma função.
+Aqui temos uma versão alterada do acorde de Petrushka. Se trata de um F# aumentado sobreposto a um C maior. As notas do acorde F# aumentado definem sobre o acorde de C os intervalos de Quarta aumentada, Sétima menor e Nona maior. Se elevarmos o F# uma oitava acima, obteremos uma estrutura de acorde mais brilhante, mas ainda com a mesma função. Ele pode também ser analisado como um Acorde maior com sétima menor, quarta aumentada e nona. As duas formas de análises são úteis dependendo do contexto, mas para alguns outros acordes, a análise do ponto de vista de acordes sobrepostos é mais informativa.
+
 

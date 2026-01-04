@@ -28,5 +28,14 @@ Vamos agora adicionar mais uma terça nos acordes anteriores para formar tétrad
 
 Antes tinhamos apenas 3 tipos diferentes de acordes, os maiores, os menores e os diminutos, mas ao adicionar a sétima em cada um deles, agora podemos dividir em 4 tipos de acodes, acordes maiores com sétima maior, acordes menores com sétima menor, acordes maiores com sétima menor e um acorde diminuto com sétima. Se continuarmos nesse raciocínio, ao adicionar a Nona em cada acorde teríamos 5 tipos diferentes de acordes. A cada novo intervalo, alguma nova diferença vai surgir, de modo que quando tivermos acordes de 7 notas (diferentes), cada acorde possuirá uma formação única. Isso será visto com mais profundidade no capítulo 7, mas por enquanto é útil saber deste fato poís isso implica que cada acorde da tonalidade possui a própria função e ela é única dentro da tonalidade, essa função irá ser identificada (por enquanto) pelo nomeclatura de graus: I grau, II grau, III grau e assim por diante.
 
+Neste caso o I grau da tonalidade de D maior é o Dmaj7, que pode possuir extensões como a Nona, a Décima primeira e a Décima terceira. O IV grau é o Gmaj7 que também poderá possuir as mesmas extensões do I grau, porém a Décima primeira será aumentada, pois se trata de um C#. Sempre haverá alguma diferença entre um acorde e outro do campo harmônico.
+
+Sabendo que cada campo harmônico possui 7 acordes diferentes e que existem 12 campo harmônicos diferentes, isso significaria que temos 84 acordes diferentes. Entretanto, como veremos em breve, esse número na verdade é muito maior, pois existem também tonalidades menores que possuem alterações nos acordes.
+
+### Campo Harmônico Menor
+
+O campo harmônico menor funciona da mesma forma do campo harmônico maior, porém partimos do VI grau ao invés do I grau. Assim, a ordenação se modifica. Chamamos o VI grau de I grau, o VII de II, o I de III, o II de IV e assim por diante. Além disso, existem duas variações importantes que precisamos considerar.
+
+
 ### Regiões do Campo Harmônico
 
